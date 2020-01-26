@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.pointvrtoolkit-cl-9631420.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/Unreal Projects/PointVRToolkit/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "PointVRToolkit-CL-9631420 [UE Editor]"
+				}
+			}
+		}
+	]
+}
