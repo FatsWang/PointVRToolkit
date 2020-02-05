@@ -1,0 +1,25 @@
+{
+	"name": "Default bindings for Vive Tracker (Left Shoulder)",
+	"controller_type": "vive_tracker_left_shoulder",
+	"last_edited_by": "UnrealEngine",
+	"bindings":
+	{
+		"/actions/main":
+		{
+			"sources": [],
+			"poses": [
+				{
+					"output": "/actions/main/in/tracker_shoulder_left",
+					"path": "/user/hand/left/pose/raw",
+					"requirement": "optional"
+				},
+				{
+					"output": "/actions/main/in/tracker_shoulder_left",
+					"path": "/user/shoulder/left/pose/raw",
+					"requirement": "optional"
+				}
+			]
+		}
+	},
+	"description": "PointVRToolkit-CL-9631420"
+}
